@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I am currently studying at Uniesp University<br>👯 I'm looking to collaborate with a company to leverage my career<br>🤝 I'm looking for help with Backend<br>🌱 I'm currently learning Frontend<br>💬 Ask me about work questions<br>⚡ I love anime and games
+💫 Sobre mim:
+🔭 Atualmente estou estudando na Universidade Uniesp<br>👯 Estou procurando colaborar com uma empresa para impulsionar minha carreira<br>🤝 Estou buscando ajuda com o Backend<br>🌱 Atualmente estou aprendendo Frontend<br>💬 Pergunte-me sobre questões de trabalho<br>⚡ Eu amo animes e jogos
 
 
 ## 🌐 Socials:
