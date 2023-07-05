@@ -1,5 +1,10 @@
 💫 Sobre mim:
-🔭 Atualmente estou estudando na Universidade Uniesp<br>👯 Estou procurando colaborar com uma empresa para impulsionar minha carreira<br>🤝 Estou buscando ajuda com o Backend<br>🌱 Atualmente estou aprendendo Frontend<br>💬 Pergunte-me sobre questões de trabalho<br>⚡ Eu amo animes e jogos
+🔭 Atualmente estou estudando na Universidade Uniesp
+👯 Estou procurando colaborar com uma empresa para impulsionar minha carreira
+🤝 Estou buscando ajuda com o Backend
+🌱 Atualmente estou aprendendo Frontend
+💬 Pergunte-me sobre questões de trabalho
+⚡ Eu amo animes e jogos
 
 
 ## 🌐 Socials:
